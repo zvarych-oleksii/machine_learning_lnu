@@ -1,1 +1,3 @@
-# machine_learning_lnu
+# Machine Learning LNU
+### Oleksii Zvarych
+
